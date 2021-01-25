@@ -1,9 +1,9 @@
 package cn.mrcode.stady.monitor_tuning;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class MonitorTuningApplicationTests {
 
     @Test
